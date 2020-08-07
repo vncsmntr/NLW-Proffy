@@ -27,7 +27,8 @@
     position: absolute;
     bottom: -30px;
   }
-  #search-teacher .input-block + .input-block {
+  #search-teacher .input-block + .input-block,
+  #search-teacher .select-block + .select-block {
     margin-top: 0;
   }
   #page-teacher-list main {
