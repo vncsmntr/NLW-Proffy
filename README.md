@@ -12,7 +12,7 @@ Projeto desevolvido junto com Diego Fernandes da @Rocketseat, com algumas mudan�
 ## Autores
 
 * **Diego Fernandes** - *Idéia* - [diego3g](https://github.com/diego3g)
-* **Vinicius Monteiro** - *Mudanças e adições - [vncsmntr](https://github.com/vncsmntr)
+* **Vinicius Monteiro** - *Mudanças e adições* - [vncsmntr](https://github.com/vncsmntr)
 
 ## Outros
 
