@@ -17,3 +17,4 @@ Projeto desevolvido junto com Diego Fernandes da @Rocketseat, com algumas mudan√
 ## Outros
 
 Projeto feito para o meu desenvolvimento pessoal em ReactJS 
+Link para o projeto: https://proffynlw-omnistack.netlify.app
